@@ -1,0 +1,19 @@
+{
+  "name": "selenium-axe",
+  "version": "1.0.0",
+  "description": "Demo of Selenium and Axe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Wang",
+  "license": "ISC",
+  "dependencies": {
+    "@axe-core/webdriverjs": "^4.8.5",
+    "express": "^4.18.3",
+    "selenium-webdriver": "^4.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
